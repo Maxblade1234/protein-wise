@@ -1,6 +1,6 @@
 import streamlit as st
-from stmol import showmol
 import py3Dmol
+from stmol import showmol
 import requests
 import biotite.structure.io as bsio
 
