@@ -1,5 +1,5 @@
 import streamlit as st
-import ipython
+import ipython_genutils
 import stmol
 import py3Dmol
 import requests
