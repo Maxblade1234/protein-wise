@@ -1,5 +1,4 @@
 import streamlit as st
-import stmol
 import py3Dmol
 import requests
 import biotite.structure.io as bsio
