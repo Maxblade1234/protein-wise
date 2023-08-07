@@ -3,7 +3,6 @@ import streamlit as st
 import py3Dmol
 import requests
 import biotite.structure.io as bsio
-import ipython_genutils
 
 st.set_page_config(layout = 'wide')
 st.sidebar.title('🧪 ProteinWise')
