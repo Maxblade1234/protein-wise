@@ -2,4 +2,4 @@ streamlit
 stmol==0.0.9
 py3Dmol==2.0.0.post2
 biotite
-ipython_genutils==0.1.0
+
