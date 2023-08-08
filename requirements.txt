@@ -1,6 +1,6 @@
 streamlit
 ipyspeck(==0.6.1)
 ipywidgets(==7.6.3)
-stmol==0.0.8
+stmol==0.0.9
 py3Dmol==2.0.0.post2
 biotite
